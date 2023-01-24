@@ -1,4 +1,4 @@
-# Calculando a média trimestral e obtendo o resulto se aprovado ou reprovado.
+# Calculando a média trimestral e obtendo o resultado se aprovado ou reprovado.
 
 ## Sobre o Projeto
 
